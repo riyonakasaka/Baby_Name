@@ -1,7 +1,7 @@
 # BabyName
 This is the US Baby Name project for lede program.
 <br>
-Link is here ()
+Link is here (https://riyonakasaka.github.io/Baby_Name/babyindex.html)
 
 ## Title
 The Rise of Girls' Names Ending in 'a'
